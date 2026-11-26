@@ -1,2 +1,3 @@
-# agentes_de_ia_com_crewai
-Projeto educacional sobre IA e Agentes
+# Projeto educacional sobre IA e Agentes
+
+Aula sobre como "Criar Agentes com Python e CrewAi"
